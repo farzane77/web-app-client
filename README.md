@@ -1,1 +1,1 @@
-# web-app-client
+# Java Web Application (Client side)
